@@ -3,7 +3,7 @@
 # Contents
 - [Tools](https://github.com/triistam/uses#tools)
 - [Playlist(Phonk)](https://github.com/triistam/uses#phonk)
-- [Playlist(Nasheed)](https://github.com/triistam/uses#nashees)
+- [Playlist(Nasheed)](https://github.com/triistam/uses#nasheed)
 - [Visual Studio Code Extensions](https://github.com/triistam/uses#vscode-extensions)
 
 
