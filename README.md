@@ -3,7 +3,7 @@
 <details>
 <summary>Tools</summary>
 
-<a href="https://code.visualstudio.com/">Visual Studio Code</a>
+<a href="https://code.visualstudio.com/">Visual Studio Code</a><br>
 <a href="https://gitlab.gnome.org/GNOME/gnome-terminal">GNOME Terminal</a>
 
 [cinnamon](https://wiki.archlinux.org/title/cinnamon)
