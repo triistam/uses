@@ -1,5 +1,12 @@
 # Thing which I use
 
+# Contents
+- [Tools](https://github.com/triistam/uses#tools)
+- [Playlist(Phonk)](https://github.com/triistam/uses#phonk)
+- [Playlist(Nasheed)](https://github.com/triistam/uses#nashees)
+- [Visual Studio Code Extensions](https://github.com/triistam/uses#vscode-extensions)
+
+
 ## Tools
 
 - [Visual Studio Code](https://code.visualstudio.com/)
