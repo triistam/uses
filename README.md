@@ -30,7 +30,7 @@ You can find my Phonk playlist on [spotify](https://open.spotify.com/playlist/52
 
 ### Nasheed
 
-You can find my Nasheed playlist on [YouTube](https://youtube.com/playlist?list=PLRR3slZDoWCHL5juVi4Oa605E13rde1Ns)
+You can find my Nasheed playlist on [YouTube](https://youtube.com/playlist?list=PLRR3slZDoWCHL5juVi4Oa605E13rde1Ns) and [Spotify](https://open.spotify.com/playlist/2nfcyzVxNn1XzRDTeiD1WD?si=0af698a2df964e2b)
 
 
 ## VSCode Extensions.
