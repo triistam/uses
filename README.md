@@ -10,22 +10,29 @@
 </details>
 
 <details>
-<summary>Playlist</summary>
-I always listen to Grioten's tracks.
+    <summary>Playlist</summary>
+    I always listen to Grioten's tracks.
+        <details>
+            <summary>Phonk</summary>
+            <a href="https://www.youtube.com/watch?v=POv3xK7Phso">BRXKEN</a><br>
+            <a href="https://www.youtube.com/watch?v=cZGJCMVVCrU">HIGH 4LERT</a><br>
+            <a href="https://www.youtube.com/watch?v=sdM2rnq8WIM">THRILLER</a><br>
+            <a href="https://www.youtube.com/watch?v=1IvyOUiftIM">PSYCHO!</a><br>
+            <a href="https://www.youtube.com/watch?v=TVqF_jVtgA8">MYBAD!</a><br>
+            <a href="https://www.youtube.com/watch?v=uV8MSY_gTUg">COPY!</a><br>
+            <a href="https://www.youtube.com/watch?v=vAQPzoCrxfM">BREAKYOURBONES</a><br>
+            <a href="https://www.youtube.com/watch?v=Ke2rytUslz8">RUGA!</a><br>
+            <a href="https://www.youtube.com/watch?v=0THfcQTM2Cc">Hollow Shikai!</a><br>
+            <a href="https://www.youtube.com/watch?v=G20TxJRTv1A">MUDD</a><br>
+            <a href="https://www.youtube.com/watch?v=Q2lK8PGgiaE">$neaky Snitch</a><br>
+            <a href="https://www.youtube.com/watch?v=I7G-YfmKab4">In the hills</a><br>
+            <a href="https://www.youtube.com/watch?v=ModYrt62Vx0">Step Back</a><br>
+            <a href="https://www.youtube.com/watch?v=gMD_pHHAWXM">ZOOM!</a><br>
+        </details>
 
-<a href="https://www.youtube.com/watch?v=POv3xK7Phso">BRXKEN</a><br>
-<a href="https://www.youtube.com/watch?v=cZGJCMVVCrU">HIGH 4LERT</a><br>
-<a href="https://www.youtube.com/watch?v=sdM2rnq8WIM">THRILLER</a><br>
-<a href="https://www.youtube.com/watch?v=1IvyOUiftIM">PSYCHO!</a><br>
-<a href="https://www.youtube.com/watch?v=TVqF_jVtgA8">MYBAD!</a><br>
-<a href="https://www.youtube.com/watch?v=uV8MSY_gTUg">COPY!</a><br>
-<a href="https://www.youtube.com/watch?v=vAQPzoCrxfM">BREAKYOURBONES</a><br>
-<a href="https://www.youtube.com/watch?v=Ke2rytUslz8">RUGA!</a><br>
-<a href="https://www.youtube.com/watch?v=0THfcQTM2Cc">Hollow Shikai!</a><br>
-<a href="https://www.youtube.com/watch?v=G20TxJRTv1A">MUDD</a><br>
-<a href="https://www.youtube.com/watch?v=Q2lK8PGgiaE">$neaky Snitch</a><br>
-<a href="https://www.youtube.com/watch?v=I7G-YfmKab4">In the hills</a><br>
-<a href="https://www.youtube.com/watch?v=ModYrt62Vx0">Step Back</a><br>
-<a href="https://www.youtube.com/watch?v=gMD_pHHAWXM">ZOOM!</a><br>
+<details>
+    <summary>Nasheed</summary>
+    <p>You can find my Nasheed playlist <a href="https://youtube.com/playlist?list=PLRR3slZDoWCHL5juVi4Oa605E13rde1Ns">here</a></p>
+</details>
 
 </details>
