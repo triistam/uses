@@ -3,9 +3,8 @@
 <details>
 <summary>Tools</summary>
 
-[vscode](https://code.visualstudio.com/)
-
-[gnome-terminal](https://gitlab.gnome.org/GNOME/gnome-terminal)
+<a href="https://code.visualstudio.com/">Visual Studio Code</a>
+<a href="https://gitlab.gnome.org/GNOME/gnome-terminal">GNOME Terminal</a>
 
 [cinnamon](https://wiki.archlinux.org/title/cinnamon)
 
